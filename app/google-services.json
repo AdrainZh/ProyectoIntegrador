@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "143007271720",
+    "project_id": "proyectointegrador-743fa",
+    "storage_bucket": "proyectointegrador-743fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143007271720:android:cfe00bdd02c0dc7546de1d",
+        "android_client_info": {
+          "package_name": "com.android.proyecto_integrador"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzKsE_46l91NvoLfxXNc4nBvEYHdksm-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
